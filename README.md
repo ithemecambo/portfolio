@@ -13,16 +13,33 @@
 
 ## ការអប់រំ
 * **2017 ~ 2017**	:	Exchanged Program (Geographic Information System
-					and Technologies), the major **Computer Science
-					Department**, at **Minho University, Portugal.**
+						and Technologies), the major **Computer Science
+						Department**, at **Minho University, Portugal.**
 
 * **2015 ~ 2017**	:	Graduated Master' degree at **Royal University of
-					Phnom Penh (RUPP)**, field the major **Information
-					Technology Engineering.**
+						Phnom Penh (RUPP)**, field the major **Information
+						Technology Engineering.**
 
 * **2010 ~ 2014**	:	Graduated Bachelor’s degree at **Royal University
-					of Phnom Penh (RUPP)**, field the major **Computer
-					Science & Engineering.**
+						of Phnom Penh (RUPP)**, field the major **Computer
+						Science & Engineering.**
+
+## វគ្គបណ្តុះបណ្តាល
+* **June-21-2013**	:	Certificate of **IOS Application Development and
+						Business for Information Technology** from **Royal
+						University of Phnom Penh (RUPP).**
+						
+* **Dec-21-2013**	:	Certificate of **Multimedia Web-based Content
+						Development** from **Cambodia-Korea Cooperation Center (CKCC).**
+
+* **June-25-2013**	: 	Certificate of **Open Source Web Development
+						(Javascript, JQuery, PHP, Ajax, MySQL, Joomla
+						& ZendFrameWork)** from **Professional Software
+						Engineering Training Center.**
+
+* **May-11-2013**	:	Certificate of **Web Development with Java (OOP,
+						Servlets, JSP) and J2ME** from **Professional
+						Software Engineering Training Center.**
 
 ## បទពិសោធការងារ
 
