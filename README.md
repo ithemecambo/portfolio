@@ -24,35 +24,34 @@
 
 
 ## វគ្គបណ្តុះបណ្តាល
-* **June-21-2013**	:	Certificate of **IOS Application Development and
-						Business for Information Technology** from **Royal
-						University of Phnom Penh (RUPP).**
+* **មិថុនា~២១~២០១៣**	:	វិញ្ញាបនបត្រ  **IOS Application Development and
+						Business for Information Technology** from **សាកលវិទ្យាល័យភូមិន្ទភ្នំពេញ (RUPP).**
 
-* **Dec-21-2013**	:	Certificate of **Multimedia Web-based Content
+* **ធ្នូ~២១~២០១៣**	:	វិញ្ញាបនបត្រ **Multimedia Web-based Content
 						Development** from **Cambodia-Korea Cooperation Center (CKCC).**
 
-* **June-25-2013**	: 	Certificate of **Open Source Web Development
+* **មិថុនា~២៥~២០១៣**	: 	វិញ្ញាបនបត្រ **Open Source Web Development
 						(Javascript, JQuery, PHP, Ajax, MySQL, Joomla
 						& ZendFrameWork)** from **Professional Software
 						Engineering Training Center.**
 
-* **May-11-2013**	:	Certificate of **Web Development with Java (OOP,
+* **ឧសភា~១១~២០១៣**	:	វិញ្ញាបនបត្រ **Web Development with Java (OOP,
 						Servlets, JSP) and J2ME** from **Professional
 						Software Engineering Training Center.**
 
 
 ## បទពិសោធការងារ
-* **2018-Present**	:	Design & Build Template
+* **២០១៨ ~ បច្ចុប្បន្ន**	:	Design & Build Template
 
-* **2020-Present**	:	Supervisor iOS Developer,  **Hong Leng Hour Co., Ltd** 
+* **២០២០ ~ បច្ចុប្បន្ន**	:	Supervisor iOS Developer,  **Hong Leng Hour Co., Ltd** 
 
-* **2019-2020**		: 	Senior iOS Developer,  **SEATEL Co, Ltd**
+* **២០១៩ ~ ២០២០**		: 	Senior iOS Developer,  **SEATEL Co, Ltd**
 
-* **2017-2019**		:	Senior iOS Developer, **EZE APP Co, Ltd**
+* **២០១៧ ~ ២០១៩**		:	Senior iOS Developer, **EZE APP Co, Ltd**
 
-* **2014-2016**		:	iOS Developer, **Softbloom Co, Ltd**
+* **២០១៤ ~ ២០១៦**		:	iOS Developer, **Softbloom Co, Ltd**
 
-* **2012-2014**		: 	Lab Assistant, **Royal University of Phnom Penh**
+* **២០១២ ~ ២០១៤**		: 	Lab Assistant, **Royal University of Phnom Penh**
 
 
 ## ជំនាញ
