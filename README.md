@@ -24,11 +24,12 @@
 						of Phnom Penh (RUPP)**, field the major **Computer
 						Science & Engineering.**
 
+
 ## វគ្គបណ្តុះបណ្តាល
 * **June-21-2013**	:	Certificate of **IOS Application Development and
 						Business for Information Technology** from **Royal
 						University of Phnom Penh (RUPP).**
-						
+
 * **Dec-21-2013**	:	Certificate of **Multimedia Web-based Content
 						Development** from **Cambodia-Korea Cooperation Center (CKCC).**
 
@@ -41,8 +42,54 @@
 						Servlets, JSP) and J2ME** from **Professional
 						Software Engineering Training Center.**
 
+
 ## បទពិសោធការងារ
+* **2018-Present**	:	Design & Build Template
+
+* **2020-Present**	:	Supervisor iOS Developer,  **Hong Leng Hour Co., Ltd** 
+
+* **2019-2020**		: 	Senior iOS Developer,  **SEATEL Co, Ltd**
+
+* **2017-2019**		:	Senior iOS Developer, **EZE APP Co, Ltd**
+
+* **2014-2016**		:	iOS Developer, **Softbloom Co, Ltd**
+
+* **2012-2014**		: 	Lab Assistant, **Royal University of Phnom Penh**
 
 
 ## ជំនាញ
+-    Mobile/Web Application	: iOS, Android, Python and Django
+
+-	Design UI/UX		:  Adobe Photoshop C6, Adobe XD, Sketch
+
+-	Code Versioning Tool	: Gitlab, Github
+
+-	Task Management Tool	: Trello, MasterTask
+
+-	Database			: SQL Server, MySQL, MongoDB, Microsoft Access
+
+-	Local Storage		: Realm, SQLite, Core Data, Property List, Userdefaults, 
+  KeyChain, Shared Preferences
+
+-	Programing		: Objective-C, Swift, SwiftUI, Java, Kotlin, HTML, 
+  CSS, JavaScript, JQuery, Bootstrap, PHP, Codeigniter,
+  Python and Django
+
+-	Design Pattern		: MVC, MVP, MVVM
+
+-	Build API			: RESTful API, JSON, Socket API
+
+-	Security on Mobile	: Access Token, Submit Header, MD5, HA5, UUID, 
+  Device Token
+
+-	Integrate Auth on Social	: Facebook, Twitter, Instagram, LinkedIn, Google+
+
+-	Notification		: Local, APN, Firebase, One Signal
+
+-	Thirty Party Library	: Cocoa Pods
+
+-	Extra on IOS		: Singleton, Delegate, Protocol, Closure, Extension, 
+  Google Map, Mapkit, Google ADMob, iAD, 
+  Core Animation UIKit, SwiftUI, Storyboard, Deploy 
+  application on the App Store
 
