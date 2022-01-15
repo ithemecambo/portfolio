@@ -14,3 +14,7 @@
 
 **6. ឃាង សេងហឿន**
 
+1. Connect with Team Explorer
+2. Map and get project
+3. Add a README.md file
+4. Commit and check in changes
