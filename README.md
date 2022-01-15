@@ -13,17 +13,17 @@
 
 ## ការអប់រំ
 * 2017 ~ 2017	:	Exchanged Program (Geographic Information System
-					and Technologies), the major Computer Science
-					Department, at Minho University, Portugal.
+					and Technologies), the major **Computer Science
+					Department**, at **Minho University, Portugal.**
 
-* 2015 ~ 2017	:	Graduated Master' degree at Royal University of
-					Phnom Penh (RUPP), field the major Information
-					Technology Engineering.
+* 2015 ~ 2017	:	Graduated Master' degree at **Royal University of
+					Phnom Penh (RUPP)**, field the major **Information
+					Technology Engineering.**
 
-* 2010 ~ 2014	:	Graduated Bachelor’s degree at Royal University
-					of Phnom Penh (RUPP), field the major Computer
-					Science & Engineering.
-					
+* 2010 ~ 2014	:	Graduated Bachelor’s degree at **Royal University
+					of Phnom Penh (RUPP)**, field the major **Computer
+					Science & Engineering.**
+
 ## បទពិសោធការងារ
 
 
