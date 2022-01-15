@@ -12,16 +12,14 @@
 
 
 ## ការអប់រំ
-* **2017 ~ 2017**	:	Exchanged Program (Geographic Information System
-						and Technologies), the major **Computer Science
+* **២០១៧ ~ ២០១៧**	:	កម្មវិធីផ្លាស់ប្តូរអាហារូបករណ៍នៅក្រៅប្រទេស (Geographic Information System
+						and Technologies), ទៅលើមុខជំនាញ **Computer Science
 						Department**, at **Minho University, Portugal.**
 
-* **2015 ~ 2017**	:	Graduated Master' degree at **Royal University of
-						Phnom Penh (RUPP)**, field the major **Information
+* **២០១៥ ~ ២០១៧**	:	បានបញ្ចប់ថ្នាក់អនុបណ្ឌិតនៅ **សាកលវិទ្យាល័យភូមិន្ទភ្នំពេញ (RUPP)**, ទៅលើមុខជំនាញ **Information
 						Technology Engineering.**
 
-* **2010 ~ 2014**	:	Graduated Bachelor’s degree at **Royal University
-						of Phnom Penh (RUPP)**, field the major **Computer
+* **២០១០ ~ ២០១៤**	:	បានបញ្ចប់ថ្នាក់បរិញ្ញាបត្រនៅ **សាកលវិទ្យាល័យភូមិន្ទភ្នំពេញ (RUPP)**, ទៅលើមុខជំនាញ **Computer
 						Science & Engineering.**
 
 
