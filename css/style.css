@@ -148,7 +148,7 @@ h2 {
 .location-box i {
   color: #ff1f1f;
   font-size: 26px;
-  opacity: 0;
+  opacity: 1;
   transition: 200ms all linear;
 }
 
@@ -364,7 +364,7 @@ h2 {
 .services-header {
   padding-top: 18px;
   font-weight: 700;
-  opacity: 0;
+  opacity: 1;
   text-align: center;
   font-family: "Nanum Gothic Coding", monospace;
   font-size: 1.65rem;
@@ -379,7 +379,7 @@ h2 {
 
 .grid-data {
   display: grid;
-  opacity: 0;
+  opacity: 1;
   grid-template-rows: 0.5fr 0.2fr;
   justify-items: center;
   height: 160px;

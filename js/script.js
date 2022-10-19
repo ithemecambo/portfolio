@@ -34,28 +34,10 @@ $(window).on("load", function () {
     new Typed(".typed", {
       strings: ["Supervisor iOS Developer"],
       typeSpeed: 60,
-      loop: false,
+      loop: true,
       startDelay: 800,
+      backSpeed: 30,
       showCursor: false,
-      onComplete: function () {
-        new Typed(".alternate-job", {
-          strings: ["Hong Leng Huor Co., Ltd"],
-          typeSpeed: 60,
-          loop: false,
-          startDelay: 0,
-          showCursor: false,
-          onComplete: function () {
-            new Typed(".location-text", {
-              strings: ["1413 N Carson ST, Carson City, NV 89701"],
-              typeSpeed: 60,
-              loop: false,
-              startDelay: 0,
-              showCursor: false,
-            });
-            $(".location-box > i").addClass("show");
-          },
-        });
-      },
     });
   
     $('[data-toggle="tooltip"]').tooltip();
@@ -187,7 +169,7 @@ $(window).on("load", function () {
       } else if ($(window).scrollTop() <= aboutTop) {
         $(".active").removeClass("active");
         $(".item0").addClass("active");
-        showAboutIntroductionTexts();
+        //showAboutIntroductionTexts();
       } else if (
         $(window).scrollTop() > aboutTop + 650 &&
         $(window).scrollTop() < educationsTop
@@ -248,7 +230,7 @@ $(window).on("load", function () {
             strings: [
               "Devoting office hours into developed the Mayura app.",
             ],
-            typeSpeed: 30,
+            typeSpeed: 0, // 30
             loop: false,
             startDelay: 0,
             showCursor: false,
@@ -302,7 +284,7 @@ $(window).on("load", function () {
                                     strings: [
                                       "My long term goal is to develop something that makes a difference in people's life.",
                                     ],
-                                    typeSpeed: 30,
+                                    typeSpeed: 0, // 30
                                     loop: false,
                                     startDelay: 0,
                                     showCursor: false,
