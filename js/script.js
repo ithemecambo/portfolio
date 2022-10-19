@@ -32,7 +32,7 @@ $(window).on("load", function () {
     });
   
     new Typed(".typed", {
-      strings: ["Senior iOS Developer"],
+      strings: ["Supervisor iOS Developer"],
       typeSpeed: 60,
       loop: false,
       startDelay: 800,
@@ -46,7 +46,7 @@ $(window).on("load", function () {
           showCursor: false,
           onComplete: function () {
             new Typed(".location-text", {
-              strings: ["Phnom Penh, Cambodia"],
+              strings: ["1413 N Carson ST, Carson City, NV 89701"],
               typeSpeed: 60,
               loop: false,
               startDelay: 0,
@@ -237,16 +237,16 @@ $(window).on("load", function () {
     if (!aboutSectionEntered) {
       new Typed("#work", {
         strings: [
-          "Currently working @ <span class = 'color-primary'>Mayura, Hong Leng Huor Co., Ltd</span>",
+          "Last time worked @ <span class = 'color-primary'>Mayura, Hong Leng Huor Co., Ltd</span>",
         ],
-        typeSpeed: 20,
+        typeSpeed: 0, // 20
         loop: false,
         startDelay: 0,
         showCursor: false,
         onComplete: function () {
           new Typed(".office-text", {
             strings: [
-              "Devoting office hours into developing the Mayura app.",
+              "Devoting office hours into developed the Mayura app.",
             ],
             typeSpeed: 30,
             loop: false,
@@ -257,7 +257,7 @@ $(window).on("load", function () {
                 strings: [
                   "In my spare time, I <span class = 'color-primary'>develop</span> iOS apps and <span class = 'color-primary'>explore</span> tech.",
                 ],
-                typeSpeed: 30,
+                typeSpeed: 0, // 30
                 loop: false,
                 startDelay: 0,
                 showCursor: false,
@@ -266,7 +266,7 @@ $(window).on("load", function () {
                     strings: [
                       "I code in Swift, Kotlin, HTML, CSS, Javascript, Django, and Python",
                     ],
-                    typeSpeed: 30,
+                    typeSpeed: 0, // 30
                     loop: false,
                     startDelay: 0,
                     showCursor: false,
@@ -275,7 +275,7 @@ $(window).on("load", function () {
                         strings: [
                           "I <span class = 'color-primary'>love</span> to talk about <span class = 'color-primary'>iOS</span>, <span class = 'color-primary'>technology,</span> and <span class = 'color-primary'>life</span>.",
                         ],
-                        typeSpeed: 30,
+                        typeSpeed: 0, //30
                         loop: false,
                         startDelay: 0,
                         showCursor: false,
@@ -284,7 +284,7 @@ $(window).on("load", function () {
                             strings: [
                               "I also enjoy occasional gaming, my favorites being Clash of Clans and X-War",
                             ],
-                            typeSpeed: 30,
+                            typeSpeed: 0, // 30
                             loop: false,
                             startDelay: 0,
                             showCursor: false,
@@ -293,7 +293,7 @@ $(window).on("load", function () {
                                 strings: [
                                   "I've recently created an <a href='https://github.com/ithemecambo' target='_blank'><span class = 'color-palatte-4'> Github</span></a> handle to share my knowledge, connect with awesome people, and help other developers with iOS & Web dev.",
                                 ],
-                                typeSpeed: 30,
+                                typeSpeed: 0, //30
                                 loop: false,
                                 startDelay: 0,
                                 showCursor: false,
