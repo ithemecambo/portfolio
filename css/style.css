@@ -667,14 +667,27 @@ h2 {
   height: 720px;
 }
 
+.items .item .web-app > img {
+  height: 330px;
+}
+
 @media only screen and (max-width: 994px) {
   .items .item > img {
     height: 700px;
+  }
+
+  .items .item .web-app > img {
+    height: 320px;
   }
 }
 @media only screen and (max-width: 575px) {
   .items .item > img {
     height: 720px;
+    width: 100%;
+  }
+
+  .items .item .web-app > img {
+    height: 300px;
     width: 100%;
   }
 }
