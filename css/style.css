@@ -923,7 +923,7 @@ h2 {
 
 @media only screen and (max-width: 349px) {
   .icon-wrap > a:nth-child(4),
-.icon-wrap > a:nth-child(5) {
+  .icon-wrap > a:nth-child(5) {
     margin-top: 15px;
   }
 }
