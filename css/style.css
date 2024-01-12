@@ -616,6 +616,35 @@ h2 {
   color: #999;
 }
 
+#contact-infos {
+  padding-left: 0;
+}
+
+.contact-info a {
+  color: #bdc3c7;
+  border: 1px solid #bdc3c7;
+  padding: 10px 18px;
+  display: block;
+  border-radius: 6px;
+}
+
+.contact-info li {
+  display: inline-block;
+  padding: 5px;
+  width: 140px;
+}
+
+.contact-info .current {
+  background-color: #ff1f1f;
+  border-color: #ff1f1f;
+  color: #fff;
+}
+
+.contact-info {
+  text-align: center;
+  width: 100%;
+}
+
 #filters {
   padding-left: 0;
 }
